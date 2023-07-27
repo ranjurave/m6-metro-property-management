@@ -1,5 +1,9 @@
-# m6-metro-property-management
+# Metro Property Management
+## Rental property management application.
 
-# Dependencies
-npm install <br>
-npm install react-router-dom@6 <br>
+### Technologies used
+React | HTML | CSS | JavaScript | MongoDB | Docker
+
+### Dependencies
+npm install
+npm install react-router-dom@6
